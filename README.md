@@ -19,7 +19,8 @@ axis limits.
 
 6. Display the autocorrelation and partial autocorrelation plots for the ARMA(2,2) process using
 plot_acf and plot_pacf.
-##y# PROGRAM:
+
+### PROGRAM:
 ```py
 from pandas import read_csv
 from pandas import datetime
